@@ -1,0 +1,19 @@
+#createRadioButton {
+    margin-left: 10px;
+}
+
+#radioQues
+{
+    width: 35%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#SimpleInput {
+    width: 35%;
+    margin-top: 10px;
+    margin-left: 50%;
+}
+#createInputButton{
+    margin-left: 50%;
+}
